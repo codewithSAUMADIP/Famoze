@@ -140,3 +140,7 @@ document.addEventListener("DOMContentLoaded", function () {
     console.warn('Swiper container not found.');
   }
 });
+
+
+lucide.createIcons();
+
